@@ -9,6 +9,7 @@ Daily 100devs challenges from Leon, with complete pseudo code.
  - [10-12](https://replit.com/@adoranicole/22-10-12#index.js)
  - [10-13](https://replit.com/@adoranicole/22-10-13#index.js)
  - [10-19](https://replit.com/@adoranicole/22-10-19#index.js)
+ - [10-20](https://replit.com/@adoranicole/10-20#index.js)
 
 
 ## Acknowledgements
