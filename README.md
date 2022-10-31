@@ -1,6 +1,6 @@
 
-# Huntober
-Daily 100devs challenges from Leon, with complete pseudo code.
+# October
+Quick practice tech questions, 5 minutes to complete, no googling.
 ## Authors
 
 - [@DwightTheShark](https://www.github.com/DwightTheShark) Nicole Schnurr
